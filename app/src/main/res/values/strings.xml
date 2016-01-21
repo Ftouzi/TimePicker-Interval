@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TimePicker With Interval</string>
+
+    <string name="action_request">This is a sample to demonstrate a simple implementation for a custom Timer Picker with an interval.
+        Please click the button below to request the TimerPicker to be showed</string>
+
+    <string name="cancel">CANCEL</string>
+    <string name="validate">VALIDATE</string>
+    <string name="time_text">%1$s : %2$s</string>
+
+</resources>
